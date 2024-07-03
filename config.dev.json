@@ -15,7 +15,7 @@
 	"nickNameBot": "Gilgamesh UltraBotV2 [ + ]",
 	"prefix": "+",
 	"adminOnly": {
-		"enable": false,
+		"enable": true,
 		"ignoreCommand": []
 	},
 	"adminBot": ["100073129302064"],
